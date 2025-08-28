@@ -36,9 +36,9 @@ This project:
 ## ✅ Results
 - **Model Used:** Linear Regression
 - **Performance Metrics:**
-  - **Mean Absolute Error (MAE):** 0.23
-  - **Root Mean Squared Error (RMSE):** 0.31
-  - **R² Score:** 0.88
+  - Mean Absolute Error (MAE): **0.23**
+  - Root Mean Squared Error (RMSE): **0.31**
+  - R² Score: **0.88**
 
 **Example Prediction:**  
 Input:
