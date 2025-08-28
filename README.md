@@ -38,4 +38,11 @@ This project:
 ```bash
 git clone https://github.com/Mallikarjun-B-Patil/Restaurant-Rating-Prediction.git
 cd Restaurant-Rating-Prediction
+```
+
+## 🙋‍♂️ Author
+
+- **MALLIKARJUN**  
+  Data Science
+  [GitHub](https://github.com/Mallikarjun-B-Patil) | [LinkedIn](https://www.linkedin.com/in/mallikarjunpatil4472/)
 
