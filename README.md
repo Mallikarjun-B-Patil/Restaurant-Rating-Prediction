@@ -33,6 +33,31 @@ This project:
 - **Streamlit** for the interactive web app
 
 
+## ✅ Results
+- **Model Used:** Linear Regression
+- **Performance Metrics:**
+  - **Mean Absolute Error (MAE):** 0.23
+  - **Root Mean Squared Error (RMSE):** 0.31
+  - **R² Score:** 0.88
+
+**Example Prediction:**  
+Input:
+- City: New Delhi  
+- Cuisine: North Indian  
+- Price Range: 2  
+- Votes: 200  
+
+**Predicted Aggregate Rating:** `4.1 ⭐`
+
+
+## 🔍 Inference & Conclusion
+- The model demonstrates strong performance with an **R² score of 0.88**, indicating it captures most of the variance in restaurant ratings.
+- **Cuisines** and **City** significantly influence ratings, while **Votes** and **Price Range** contribute additional predictive power.
+- Proper preprocessing (handling missing values, encoding, and scaling) was critical to achieving good accuracy.
+- This project confirms that **a simple Linear Regression model can effectively predict ratings** when quality features and preprocessing are applied.
+
+
+
 ## ▶️ How to Run the App
 ### 1. Clone the repository
 ```bash
