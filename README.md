@@ -30,6 +30,6 @@ This project:
 ## ▶️ How to Run the App
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Restaurant-Rating-Prediction.git
+git clone https://github.com/Mallikarjun-B-Patil/Restaurant-Rating-Prediction.git
 cd Restaurant-Rating-Prediction
 
